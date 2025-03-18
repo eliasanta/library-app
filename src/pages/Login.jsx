@@ -5,7 +5,6 @@ function Login() {
 
     const handleLogin = () => {
         // Qui andrà la logica di autenticazione
-        console.log("login click")
         navigate("/dashboard");
     };
 
