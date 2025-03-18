@@ -10,8 +10,8 @@ function Login() {
 
     return (
         <div>
-            <h2>Login Page hallo</h2>
-            <button onClick={handleLogin}>Login test </button>
+            <h2>Login Page hallo test</h2>
+            <button onClick={handleLogin}>Login test</button>
         </div>
     );
 }
